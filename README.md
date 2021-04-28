@@ -1,4 +1,4 @@
-# myExcel
+# myExcel  不错 只是不能兼容office
 
 #### 介绍
 基于jquery实现的web版excel。包含excel的基本功能
